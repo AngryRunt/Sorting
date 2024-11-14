@@ -1,0 +1,3 @@
+/home/angryrunt/dev/angryrunt/EDUCATION_NGTU/sort/cmake-build-debug/CMakeFiles/sort.dir
+/home/angryrunt/dev/angryrunt/EDUCATION_NGTU/sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/angryrunt/dev/angryrunt/EDUCATION_NGTU/sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
